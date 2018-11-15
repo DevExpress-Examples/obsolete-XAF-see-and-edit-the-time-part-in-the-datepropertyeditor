@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Model.DesignedDiffs.xafml](./CS/WinSolution.Module.Win/Model.DesignedDiffs.xafml) (VB: [Model.DesignedDiffs.xafml](./VB/WinSolution.Module.Win/Model.DesignedDiffs.xafml))
+* [MyDatePropertyEditor.cs](./CS/WinSolution.Module.Win/MyDatePropertyEditor.cs) (VB: [MyDatePropertyEditor.vb](./VB/WinSolution.Module.Win/MyDatePropertyEditor.vb))
+* [DomainObject1.cs](./CS/WinSolution.Module/DomainObject1.cs) (VB: [DomainObject1.vb](./VB/WinSolution.Module/DomainObject1.vb))
+<!-- default file list end -->
 # OBSOLETE - How to see and edit the time part in the DatePropertyEditor for the System.DateTime property
 
 
