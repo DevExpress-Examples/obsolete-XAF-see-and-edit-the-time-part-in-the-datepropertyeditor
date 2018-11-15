@@ -1,3 +1,18 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Model.DesignedDiffs.xafml](./CS/WinSolution.Module.Win/Model.DesignedDiffs.xafml) (VB: [Model.DesignedDiffs.xafml](./VB/WinSolution.Module.Win/Model.DesignedDiffs.xafml))
+* [MyDatePropertyEditor.cs](./CS/WinSolution.Module.Win/MyDatePropertyEditor.cs) (VB: [MyDatePropertyEditor.vb](./VB/WinSolution.Module.Win/MyDatePropertyEditor.vb))
+* [Updater.cs](./CS/WinSolution.Module.Win/Updater.cs) (VB: [Updater.vb](./VB/WinSolution.Module.Win/Updater.vb))
+* [WinModule.cs](./CS/WinSolution.Module.Win/WinModule.cs) (VB: [WinModule.vb](./VB/WinSolution.Module.Win/WinModule.vb))
+* [DomainObject1.cs](./CS/WinSolution.Module/DomainObject1.cs) (VB: [DomainObject1.vb](./VB/WinSolution.Module/DomainObject1.vb))
+* [Model.DesignedDiffs.xafml](./CS/WinSolution.Module/Model.DesignedDiffs.xafml) (VB: [Model.DesignedDiffs.xafml](./VB/WinSolution.Module/Model.DesignedDiffs.xafml))
+* [Module.cs](./CS/WinSolution.Module/Module.cs) (VB: [Module.vb](./VB/WinSolution.Module/Module.vb))
+* [Updater.cs](./CS/WinSolution.Module/Updater.cs) (VB: [Updater.vb](./VB/WinSolution.Module/Updater.vb))
+* [Model.xafml](./CS/WinSolution.Win/Model.xafml) (VB: [Model.xafml](./VB/WinSolution.Win/Model.xafml))
+* [Program.cs](./CS/WinSolution.Win/Program.cs) (VB: [Program.vb](./VB/WinSolution.Win/Program.vb))
+* [WinApplication.cs](./CS/WinSolution.Win/WinApplication.cs) (VB: [WinApplication.vb](./VB/WinSolution.Win/WinApplication.vb))
+<!-- default file list end -->
 # OBSOLETE - How to see and edit the time part in the DatePropertyEditor for the System.DateTime property
 
 
